@@ -1,2 +1,2 @@
-dir_to_ignore = ./datset
-dir_to_ignore = ./images 
+dataset/
+images/
